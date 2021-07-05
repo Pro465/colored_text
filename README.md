@@ -4,7 +4,7 @@
 # using the library
 add this line in your Cargo.toml's dependencies section:
 ```toml
-colored = { git = "https://github.com/Pro465/colored_text.git" }
+colored_text = { git = "https://github.com/Pro465/colored_text.git" }
 ```
 
 # examples
