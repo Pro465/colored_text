@@ -1,10 +1,10 @@
 # rust library to set color in terminal
-![example workflow](https://github.com/Pro465/colored_text/actions/workflows/rust.yml/badge.svg)
+![example workflow](https://github.com/Pro465/colorful_text/actions/workflows/rust.yml/badge.svg)
 
 # using the library
 add this line in your Cargo.toml's dependencies section:
 ```toml
-colored_text = { git = "https://github.com/Pro465/colored_text.git" }
+colorful_text = { git = "https://github.com/Pro465/colorful_text.git" }
 ```
 
 # examples
