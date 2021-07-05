@@ -1,4 +1,4 @@
-use colored::*;
+use colorful_text::*;
 
 fn main() {
         let color = Color {
