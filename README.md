@@ -1,4 +1,4 @@
-# rust library to set color in terminal
+# rust library to set color of text in terminal
 ![example workflow](https://github.com/Pro465/colorful_text/actions/workflows/rust.yml/badge.svg)
 
 # using the library
