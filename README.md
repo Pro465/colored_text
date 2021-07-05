@@ -2,7 +2,7 @@
 ![example workflow](https://github.com/Pro465/colored_text/actions/workflows/rust.yml/badge.svg)
 
 # using the library
-add this line in your Cargo.toml:
+add this line in your Cargo.toml's dependencies section:
 ```toml
 colored = { git = "https://github.com/Pro465/colored_text.git" }
 ```
