@@ -1,5 +1,5 @@
 [package]
-name = "colored"
+name = "colorful_text"
 version = "0.1.0"
 authors = ["Proloy Mishra <namitapro0987@gmail.com>"]
 edition = "2018"
