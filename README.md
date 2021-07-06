@@ -16,4 +16,4 @@ see [./examples](./examples)
 All contributions are welcome!
 
 # Notes
-## this will not work on terminals that don't support ANSI color codes or even colors
+## this will not work on terminals that don't support colors or ANSI escape sequences
