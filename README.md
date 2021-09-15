@@ -6,7 +6,7 @@ this can be used to set foreground and background colours of texts `print[ln]!`-
 # using the library
 add this line in your Cargo.toml's dependencies section:
 ```toml
-colorful_text = { git = "https://github.com/Pro465/colorful_text.git" }
+colorful_text = { git = "https://github.com/pro465/colorful_text.git" }
 ```
 
 # examples
